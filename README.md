@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to DevSync AI</h1>
+<h3 align="center">Two Minds, One Mission — Smarter AI Solutions</h3>
 
-<!--
-**DevSyncAi/DevSyncAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building Intelligent Systems | 🤖 Generative AI | 🌐 Full Stack | ☁️ Cloud Deployments
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Us
+- 🔹 Passionate about **AI, GenAI, and Full Stack Development**
+- 🔹 Experienced in **Python, Deep Learning, Computer Vision, and LangChain**
+- 🔹 Skilled in **Voice Translation, Lip-Sync AI, Whisper, and RAG Systems**
+- 🔹 Expertise in **AWS & Azure Deployment**, **API Integration**, and **System Design**
+- 🔹 Currently working at **Concept Sparx** as **AI Developers**
+
+---
+
+### 📫 How to Reach Us
+- 📧 **Email:** [DevSyncAI.Team@gmail.com](mailto:DevSyncAI.Team@gmail.com)  
+- 💼 **Fiverr:** [fiverr.com/devsyncai](https://www.fiverr.com) *(coming soon)*  
+- 🔗 **LinkedIn:** [Kalaicharan M](https://www.linkedin.com/in/kalaicharan-m31/)  
+- 🧠 **GitHub (Main):** [Kalaicharan-M](https://github.com/Kalaicharan-M)
+
+---
+
+### ⚙️ Tech Stack
+
+#### Languages & Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+#### ML / DL Frameworks
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF8000?logo=xgboost)
+
+#### Generative AI / LLM Tools
+![LangChain](https://img.shields.io/badge/-LangChain-00B4AB)
+![FAISS](https://img.shields.io/badge/-FAISS-02569B)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2)
+
+#### Data Visualization & Analytics
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+
+#### Tools & IDEs
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+
+#### Backend & Deployment
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevSyncAI&show_icons=true&theme=react&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSyncAI&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSyncAI&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+- 🧾 [Legal Judgment Retrieval (RAG + LangChain)](https://github.com/Kalaicharan-M/Legal-Judgement-Retrieval-using-RAG-with-CSV-Case-Law-Data)  
+- 📈 [Demand Forecasting (Machine Learning)](https://github.com/Kalaicharan-M/Demand-Forecasting)  
+- 🧠 [Phishing Detection & Classification (Deep Learning)](https://github.com/Kalaicharan-M/-Phishing-Detection-and-Classification)  
+- 👨‍💼 [HR Analytics Dashboard (Power BI)](https://github.com/Kalaicharan-M/HR-Analytics-Dashboard-for-Employee-Attrition)
+
+---
+
+<p align="center">
+✨ _“Two minds in perfect sync — building tomorrow’s AI today.”_ ✨
+</p>
