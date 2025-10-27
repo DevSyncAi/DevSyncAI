@@ -65,27 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevSyncAI&show_icons=true&theme=react&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSyncAI&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSyncAI&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-### 🌟 Featured Projects
-- 🧾 [Legal Judgment Retrieval (RAG + LangChain)](https://github.com/Kalaicharan-M/Legal-Judgement-Retrieval-using-RAG-with-CSV-Case-Law-Data)  
-- 📈 [Demand Forecasting (Machine Learning)](https://github.com/Kalaicharan-M/Demand-Forecasting)  
-- 🧠 [Phishing Detection & Classification (Deep Learning)](https://github.com/Kalaicharan-M/-Phishing-Detection-and-Classification)  
-- 👨‍💼 [HR Analytics Dashboard (Power BI)](https://github.com/Kalaicharan-M/HR-Analytics-Dashboard-for-Employee-Attrition)
-
----
-
 <p align="center">
 ✨ _“Two minds in perfect sync — building tomorrow’s AI today.”_ ✨
 </p>
