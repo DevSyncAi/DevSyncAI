@@ -17,11 +17,10 @@
 ---
 
 ### 📫 How to Reach Us
-- 📧 **Email:** [DevSyncAI.Team@gmail.com](mailto:DevSyncAI.Team@gmail.com)  
+- 📧 **Email:** [aidevbrothers@gmail.com](aidevbrothers@gmail.com)  
 - 💼 **Fiverr:** [fiverr.com/devsyncai](https://www.fiverr.com) *(coming soon)*  
-- 🔗 **LinkedIn:** [Kalaicharan M](https://www.linkedin.com/in/kalaicharan-m31/)  
-- 🧠 **GitHub (Main):** [Kalaicharan-M](https://github.com/Kalaicharan-M)
-
+- 💼 **Upwork:** [Upwork.com/devsyncai](https://www.fiverr.com) *(coming soon)* 
+- 💼 **Fiverr:** [fiverr.com/devsyncai](https://www.fiverr.com) *(coming soon)* 
 ---
 
 ### ⚙️ Tech Stack
